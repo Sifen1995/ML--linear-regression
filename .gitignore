@@ -1,0 +1,5 @@
+# Ignore dataset files
+train.csv
+test.csv
+sample_submission.csv
+submission.csv # Also ignore your generated submission file
